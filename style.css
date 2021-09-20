@@ -1,0 +1,198 @@
+* {  margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Lobster Two', cursive;
+    font-family: 'Montserrat', sans-serif;
+}
+
+main {
+    float: left;
+    width: 100%;
+    overflow: hidden;
+}
+
+.header-wrap {
+    float: left;
+     width: 100%;
+     background-color: #575b5f;
+}
+
+.main-header {
+    float: left;
+    width: 100%;
+}
+
+.common-wrap {
+    max-width: 1140px;
+    padding: 0 20px;
+    margin: 0 auto;
+    clear: both;
+}
+
+.header-inner{
+    float: left;
+    width: 100%;
+    height: 80px;
+}
+
+.logo-wrap{
+    float: left;
+    width: 350px;
+    padding: 21px;
+}
+
+.main-logo{
+    float: left;
+    width: 83px;
+}
+
+.main-logo a{
+    float: left;
+    width: 100%;
+}
+.main-logo img{
+    height: 100%;
+    width: 100%;
+}
+.nav-wrap{
+    float: left;
+    width: 700px;
+}
+.main-nav{
+    float: left;
+    width: 100%;
+    margin: 1px 103px;
+
+}
+.main-nav ul{
+    float: left;
+    width: 100%;
+    
+}
+.main-nav li{
+    display: inline-block;
+    padding: 32px 20px;  
+}
+.main-nav a{
+   color: white;
+   text-decoration: none; 
+} 
+
+.main-wrap{
+    float: left;
+    height: 770px;
+    width: 100%;
+    background-color: #999999
+}
+
+.main-body-wrap{
+    float: left;
+    width: 100%;
+}
+.main-inner{
+    float: left;
+    width: 100%;
+}
+.main-content{
+    text-align: center;
+    padding-top: 143px;
+    
+}
+.main-content h1{
+    font-size: 70px;
+    font-weight: 400;
+    padding-bottom: 100px;
+}
+.main-content p{
+    margin: 0 auto;
+    padding-bottom: 64px;
+}
+
+.our-menu {
+    width: 120px;
+    background-color: #151d25;
+    color: white;
+    padding: 12px 1px;
+    text-align: center;
+    font-size: 16px;
+    margin: 0 auto;
+    
+}
+
+.our-menu a{
+    color: white;
+    text-decoration: none;
+}
+
+.story-wrap{
+    float: left;
+    min-height: 260px;
+    width: 100%;
+    background-color: whitesmoke;
+}
+
+.story-body-wrap{
+    float: left;
+    width: 100%;
+    
+}
+
+.story-inner{
+    float: left;
+    width: 100%;
+   
+}
+
+.story-content{
+    float: left;
+    width: 100%;
+    
+}
+
+.story-left{
+    float: left;
+    height: 260px;
+    width: 50%;
+    margin-left: 34px;
+    background-color: #cccccc;
+}
+.story-right{
+    width: 50%;
+    background-color: white;
+    margin-left: 585px;
+    height: 260px;
+    padding: 70px 0 0 30px;
+}
+
+.story-right h2{
+    font-size: 34px;
+    line-height: 24px;
+    font-weight: 400;
+    color: black;
+    padding-bottom: 35px;
+}
+.story-right p{
+    font-size: 14px;
+    line-height: 24px;
+    font-weight: 400;
+    color: black;
+    padding-bottom: 17px;
+}
+.story-btn{
+    text-align: center;
+    margin: 0 auto;
+    width: 165px;
+    height: 37px;
+    border: 2px solid black;
+    padding-top: 10px;
+    background-color: black;
+    
+.story-btn a {
+   text-decoration: none;
+}
+
+.resturent-wrap{float: left; width: 100%; background-color: orange; height: 480px;}
+.resturent-body-wrap{float: left; width: 100%;}
+.resturent-inner{float: left; width: 100%;}
+.resturent-content{float: left; width: 100%;}
+
